@@ -10,9 +10,9 @@ This repository showcases a wide range of classification projects built with mac
 | `E-mail_spam.ipynb`             | Classifies emails as spam or not spam.                                   |
 | `PHISHING.ipynb`                | Detects phishing websites.                                               |
 | `academic_dropout.ipynb`        | Predicts the likelihood of student dropout.                              |
-| `bank.ipynb`                    | Predicts customer behavior in banking (e.g., term deposit subscription). |
+| `bank.ipynb`                    | Predicts customer behavior in banking.                                   |
 | `bot vs user.IPYNB`             | Classifies whether an account is a bot or a real user.                   |
-| `fraud.ipynb`                   | Detects fraudulent activity (likely transactions or user behavior).      |
+| `fraud.ipynb`                   | Detects fraudulent activity.                                             |
 | `health.ipynb`                  | General health classification based on various features.                 |
 | `heart_attack_prediction.ipynb` | Predicts the likelihood of a heart attack.                               |
 | `iris_flower.ipynb`             | Classifies species of iris flowers.                                      |
